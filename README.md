@@ -1,3 +1,1 @@
-# GUESS-a-Number
- 
-https://belikovvvartem.github.io/GUESS-a-Number/
+Wellcome to my game
